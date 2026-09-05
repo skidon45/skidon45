@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Clven Lyndon M. Lomugdang</h1>
-<h3 align="center">A passionate frontend developer from the Philippines who loves building clean, user-friendly web and app experiences.</h3>
+<h3 align="center">A passionate frontend developer from the Philippines who loves building clean, user-friendly app experiences.</h3>
 
 - 🔭 I’m currently working on [MiruList](https://github.com/skidon45/MiruList)
 
